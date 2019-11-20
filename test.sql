@@ -746,7 +746,7 @@ END
 DELIMITER ;
 
 -- ----------------------------
--- Procedure structure for `resetLifeVehicles`
+-- Procedure structure for `resetLifeVehicles` yrest
 -- ----------------------------
 DROP PROCEDURE IF EXISTS `resetLifeVehicles`;
 DELIMITER ;;
